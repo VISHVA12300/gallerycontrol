@@ -145,12 +145,10 @@ public class MainActivity extends Activity {
 
 
 ## OUTPUT
-![WhatsApp Image 2024-04-17 at 11 40 15_1599a7fb](https://github.com/VISHVA12300/gallerycontrol/assets/119404426/d2ff2bb4-46ad-4947-b84e-b8b908f7b175)
+![Screenshot 2024-05-08 102721](https://github.com/VISHVA12300/gallerycontrol/assets/119404426/63326eb3-c716-44ab-9dd4-d4784f7131fe)
 
-![WhatsApp Image 2024-04-17 at 11 40 15_9a188d41](https://github.com/VISHVA12300/gallerycontrol/assets/119404426/dae0cda9-a09a-4b8b-8b95-b945c59f3e3c)
-
-![WhatsApp Image 2024-04-17 at 11 40 15_983d4f89](https://github.com/VISHVA12300/gallerycontrol/assets/119404426/21a5b7b0-7bbd-4f9c-be1a-80c03362fc85)
-
+![Screenshot 2024-05-08 102733](https://github.com/VISHVA12300/gallerycontrol/assets/119404426/72a330c5-10d1-4ecd-8b9e-fae4a62550a8)
+![Screenshot 2024-05-08 102741](https://github.com/VISHVA12300/gallerycontrol/assets/119404426/d9f56622-1632-4317-9edc-ed8e4ccb1c35)
 
 ## RESULT
 Thus a Simple Android Application to create a gallery control using android studio to display images or photos is developed and executed successfully.
